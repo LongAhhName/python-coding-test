@@ -2,6 +2,6 @@
 Just some random Python code
 
 Tasks:
-- [] Learn some Python
-- [] Git
-- [] Convert to executable
+- [ ] Learn some Python
+- [ ] Git
+- [ ] Convert to executable
